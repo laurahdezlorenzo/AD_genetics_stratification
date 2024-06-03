@@ -1,7 +1,7 @@
 # AD_genetics_stratification
 
 ## Description
-Code repository for the paper entitled "Genetic-based patient stratification in Alzheimer’s disease". The repository follows the methodology and results presented in the mentioned work.
+Code repository for the paper entitled ["Genetic-based patient stratification in Alzheimer’s disease"](https://www.nature.com/articles/s41598-024-60707-1). The repository follows the methodology and results presented in the mentioned work.
 
 ![Image](figures/methodology.png)
 
